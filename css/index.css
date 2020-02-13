@@ -140,6 +140,10 @@ button:disabled {
   color: red;
 }
 
+#erro-ajax {
+  color: red;
+}
+
 .fadeOut {
   opacity: 0;
   transition: 0.5s;
@@ -149,4 +153,8 @@ button:disabled {
   width: 200px;
   height: 30px;
   margin-bottom: 10px;
+}
+
+.invisivel {
+  display: none;
 }
